@@ -23,4 +23,4 @@ The topics covered are:
 
 &nbsp;
 
-![logo](img/2018-MachineLearning-Lectures-ESA.JPG)
+![logo](img/2018-MachineLearning-Lectures-ESA_2.JPG)
