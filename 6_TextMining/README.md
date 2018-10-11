@@ -1,4 +1,4 @@
-# Unsupervised Learning
+# Text Mining
 Available Resources:
 * Presentation
 	* [video](https://dlmultimedia.esa.int/download/public/videos/2048/04/013/4804_013_AR_EN.mp4)
