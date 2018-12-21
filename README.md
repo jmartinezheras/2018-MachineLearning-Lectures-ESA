@@ -1,4 +1,7 @@
 # 2018-MachineLearning-Lectures-ESA
+
+**[Español]** Estoy poniendo los contenidos de estas charlas en español en [IArtificial](https://iartificial.net)
+
 In 2018, The European Space Agency (ESA) organized a series of 6 lectures on Machine Learning at the European Space Operations Centre (ESOC).
 This repository contains the lectures resources: presentations, notebooks and links to the videos (presentation and hands-on).
 
