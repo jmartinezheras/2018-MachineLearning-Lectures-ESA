@@ -7,9 +7,9 @@ This repository contains the lectures resources: presentations, notebooks and li
 
 The topics covered are:
 1. **Machine Learning Introduction**
-    * presentation: [video](https://dlmultimedia.esa.int/download/public/videos/2048/03/001/4803_001_AR_EN.mp4)  [slides](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA/blob/master/1_Introduction/1_MachineLearningIntroduction.pdf)
+    * presentation: [video](https://www.youtube.com/watch?v=FXYPDyoR1o0)  [slides](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA/blob/master/1_Introduction/1_MachineLearningIntroduction.pdf)
 2. **Linear Regression and Support Vector Machines**
-    * presentation: [video](https://dlmultimedia.esa.int/download/public/videos/2048/03/004/4803_004_AR_EN.mp4) [slides](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA/blob/master/2_LinearRegression_SVM/2_LinearRegression_SVM.pdf)
+    * presentation: [video](https://www.youtube.com/watch?v=_5lsmWpA5IU) [slides](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA/blob/master/2_LinearRegression_SVM/2_LinearRegression_SVM.pdf)
     * hands-on: [video](https://dlmultimedia.esa.int/download/public/videos/2048/03/003/4803_003_AR_EN.mp4) [notebook](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA/blob/master/2_LinearRegression_SVM/2_airbnb_frankfurt.ipynb)
 3. **Decision Trees and Random Forests**
     * presentation: [video](https://dlmultimedia.esa.int/download/public/videos/2048/03/005/4803_005_AR_EN.mp4) [slides](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA/blob/master/3_DecisionTrees-RandomForests/3_DecisionTrees-RandomForests.pdf)
