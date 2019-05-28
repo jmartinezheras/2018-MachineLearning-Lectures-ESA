@@ -16,10 +16,10 @@ The topics covered are:
     * hands-on: [video](https://youtu.be/HuD6myqJcFU) [notebook](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA/blob/master/3_DecisionTrees-RandomForests/3_bank.ipynb)
 4. **Neural Networks and Deep Learning**
     * presentation: [video](https://youtu.be/2Fp85uT41oA) [slides](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA/blob/master/4_NN-DeepLearning/4_NN-DeepLearning.pdf)
-    * hands-on: [video](https://dlmultimedia.esa.int/download/public/videos/2048/03/007/4803_007_AR_EN.mp4) [notebook](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA/blob/master/4_NN-DeepLearning/4_HandWrittenRecognition-CNN.ipynb)
+    * hands-on: [video](https://youtu.be/3YdQlygV3xU) [notebook](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA/blob/master/4_NN-DeepLearning/4_HandWrittenRecognition-CNN.ipynb)
     * bonus: [Introduction to GANs](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA/blob/master/4_NN-DeepLearning/4_GANs_Intro.pdf)
 5. **Unsupervised Learning**
-    * presentation: [video](https://dlmultimedia.esa.int/download/public/videos/2048/04/011/4804_011_AR_EN.mp4) [slides](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA/blob/master/5_UnsupervisedLearning/5_UnsupervisedLearning.pdf)
+    * presentation: [video](https://youtu.be/8y7jgfJ8vTA) [slides](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA/blob/master/5_UnsupervisedLearning/5_UnsupervisedLearning.pdf)
     * hands-on: [video](https://dlmultimedia.esa.int/download/public/videos/2048/04/010/4804_010_AR_EN.mp4) [notebook](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA/blob/master/5_UnsupervisedLearning/5_Unsupervised_DowJones.ipynb) 
 6. **Text Mining**
     * presentation: [video](https://dlmultimedia.esa.int/download/public/videos/2048/04/013/4804_013_AR_EN.mp4) [slides](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA/blob/master/6_TextMining/6_TextMining.pdf)
