@@ -22,8 +22,8 @@ The topics covered are:
     * presentation: [video](https://youtu.be/8y7jgfJ8vTA) [slides](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA/blob/master/5_UnsupervisedLearning/5_UnsupervisedLearning.pdf)
     * hands-on: [video](https://youtu.be/WheCCObhCdk) [notebook](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA/blob/master/5_UnsupervisedLearning/5_Unsupervised_DowJones.ipynb) 
 6. **Text Mining**
-    * presentation: [video](https://dlmultimedia.esa.int/download/public/videos/2048/04/013/4804_013_AR_EN.mp4) [slides](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA/blob/master/6_TextMining/6_TextMining.pdf)
-    * hands-on: [video](https://dlmultimedia.esa.int/download/public/videos/2048/04/012/4804_012_AR_EN.mp4) [notebook](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA/blob/master/6_TextMining/6_TextMining-ESA-News.ipynb)
+    * presentation: [video](https://youtu.be/HSwD7uYwL8Y) [slides](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA/blob/master/6_TextMining/6_TextMining.pdf)
+    * hands-on: [video](https://youtu.be/iApmefne6A8) [notebook](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA/blob/master/6_TextMining/6_TextMining-ESA-News.ipynb)
 
 &nbsp;
 
