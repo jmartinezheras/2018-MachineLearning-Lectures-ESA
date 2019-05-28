@@ -4,5 +4,5 @@ Available Resources:
 	* [video](https://youtu.be/Op4thnw-ig8)
 	* [slides](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA/blob/master/3_DecisionTrees-RandomForests/3_DecisionTrees-RandomForests.pdf)
 * Hands-on
-	* [video](https://dlmultimedia.esa.int/download/public/videos/2048/03/006/4803_006_AR_EN.mp4)
+	* [video](https://youtu.be/HuD6myqJcFU)
 	* [notebook](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA/blob/master/3_DecisionTrees-RandomForests/3_bank.ipynb)
