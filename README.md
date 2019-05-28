@@ -13,7 +13,7 @@ The topics covered are:
     * hands-on: [video](https://youtu.be/9WisRGpP4p4) [notebook](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA/blob/master/2_LinearRegression_SVM/2_airbnb_frankfurt.ipynb)
 3. **Decision Trees and Random Forests**
     * presentation: [video](https://youtu.be/Op4thnw-ig8) [slides](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA/blob/master/3_DecisionTrees-RandomForests/3_DecisionTrees-RandomForests.pdf)
-    * hands-on: [video](https://dlmultimedia.esa.int/download/public/videos/2048/03/006/4803_006_AR_EN.mp4) [notebook](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA/blob/master/3_DecisionTrees-RandomForests/3_bank.ipynb)
+    * hands-on: [video](https://youtu.be/HuD6myqJcFU) [notebook](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA/blob/master/3_DecisionTrees-RandomForests/3_bank.ipynb)
 4. **Neural Networks and Deep Learning**
     * presentation: [video](https://dlmultimedia.esa.int/download/public/videos/2048/03/008/4803_008_AR_EN.mp4) [slides](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA/blob/master/4_NN-DeepLearning/4_NN-DeepLearning.pdf)
     * hands-on: [video](https://dlmultimedia.esa.int/download/public/videos/2048/03/007/4803_007_AR_EN.mp4) [notebook](https://github.com/jmartinezheras/2018-MachineLearning-Lectures-ESA/blob/master/4_NN-DeepLearning/4_HandWrittenRecognition-CNN.ipynb)
